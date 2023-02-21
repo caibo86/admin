@@ -1,0 +1,2 @@
+# admin
+Go-Admin tour
